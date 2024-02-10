@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meriem AB</h1>
 <h3 align="center">Passionate about the world of Data Science from Algeria.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meriemab2001" alt="meriemab2001" /></a> </p>
-
 - 🌱 I’m currently learning **React JS & Node JS**
 
 - 👯 I’m looking to collaborate on **DaTa Science Projects**
